@@ -1,0 +1,11 @@
+# any fastq files or fastq references
+*fastq.gz
+*fq.gz
+*fq
+*fastq
+*fasta.gz
+*fasta
+*fa.gz
+*fa
+*zip
+*.index
